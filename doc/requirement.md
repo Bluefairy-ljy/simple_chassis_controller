@@ -96,7 +96,9 @@
 2. 使用 control_toolbox 的 PID 控制器
 3. 可在配置文件中设定 PID 的各个参数
 4. 会使用 rqt 的 rqt_plot 和 rqt_reconfigure 调整得到合适的PID参数
-5. 理解 `control_toolbox::Pid` 类 参考资料：
+5. 理解 `control_toolbox::Pid` 类 
+
+参考资料：
 
 - [control_toolbox](http://wiki.ros.org/control_toolbox)
 - [control_toolbox::Pid Class Reference](http://docs.ros.org/en/jade/api/control_toolbox/html/classcontrol__toolbox_1_1Pid.html)
