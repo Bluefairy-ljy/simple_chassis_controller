@@ -14,13 +14,13 @@
 **总分: 10**
 如果没有完成必做需求，没有资格获得本轮分数。
 
-#### 1. 运行 [rm_description](https://github.com/gdut-dynamic-x/rm_description/tree/assignment)的 assignment 分支
+#### 1. 运行 [rm_description_for_task](https://github.com/Bluefairy-ljy/rm_description_for_task.git) 的 master 分支
 
 **分数: 2**
 
 参考资料：
 
-- [rm_description](https://github.com/gdut-dynamic-x/rm_description/tree/assignment)
+- [rm_description_for_task](https://github.com/Bluefairy-ljy/rm_description_for_task.git)
 
 #### 2. 学习理解并运行 [simple_chassis_controller]
 
@@ -174,8 +174,9 @@
 
 ### 视频要求
 
-1. 使用团队统一模板制作 PPT，录屏录制完整的 PPT 汇报视频，需求结合仿真效果、参考资料来讲解**方案设计与个人理解**
+1. 使用团队统一模板制作 PPT，录屏录制 PPT 汇报视频。需求结合仿真效果、参考资料来讲解**方案设计与个人理解**
 
 2. 必须**运行代码**并完整演示所实现功能。未实际运行展示的功能予以扣分
 
 3. 提交视频时长控制在**10～15min**，提交邮箱为 **y3099568863@sina.com** ，截止时间为 **11 月 3 日 24:00**。发送视频格式为.mp4，命名为【姓名 年级】
+
